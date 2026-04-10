@@ -1,0 +1,25 @@
+# Môi trường ảo (Virtual Environments)
+.venv/
+venv/
+env/
+.env
+
+# Thư mục cache của Python và Jupyter
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Cấu hình IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MacOS
+.DS_Store
+
+# Hệ điều hành Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
